@@ -1,0 +1,5 @@
+# Ignore all CSV files anywhere in the project
+*.csv
+
+# Ignore model checkpoint files
+*.pth
